@@ -1,5 +1,3 @@
--- Activar extensión para generar UUIDs
-CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
 
 -- Crear tabla de solicitudes
 CREATE TABLE IF NOT EXISTS solicitudes (
